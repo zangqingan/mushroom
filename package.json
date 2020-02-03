@@ -1,0 +1,19 @@
+{
+  "name": "mushroom",
+  "version": "1.0.0",
+  "description": "一个仿蘑菇街的移动端项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zangqingan/mushroom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zangqingan/mushroom/issues"
+  },
+  "homepage": "https://github.com/zangqingan/mushroom#readme"
+}
