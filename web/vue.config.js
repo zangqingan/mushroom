@@ -2,8 +2,9 @@ module.exports = {
   configureWebpack: {
     resolve: {
       alias: {
+        // '@':'src'
         'assets': '@/assets',
-        'common': '@/common',
+        'utils': '@/utils',
         'components': '@/components',
         'network': '@/network',
         'views': '@/views',
@@ -11,7 +12,6 @@ module.exports = {
     }
   },
   publicPath: './',
-  
   devServer: {
     open: true,
 

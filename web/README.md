@@ -1,24 +1,9 @@
-# web
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 项目目录结构
+assets —— 静态资源
+components —— 公共组件
+network —— 网络请求也可放在 .vue文件中
+router —— 路由
+store —— vuex
+utils —— 工具类
+views —— 页面
+# css重置
